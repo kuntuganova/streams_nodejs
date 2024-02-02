@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kuntuganova/streams_nodejs/issues"
   },
-  "homepage": "https://github.com/kuntuganova/streams_nodejs#readme"
+  "homepage": "https://github.com/kuntuganova/streams_nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
